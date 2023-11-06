@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "how to write a blog"
 date:   2012-09-12 19:41:59 +0000
 categories: jekyll update
 ---
