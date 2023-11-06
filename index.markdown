@@ -5,12 +5,3 @@
 layout: home
 ---
 
-
-## section A
-
-### section B
-
-### section BB
-
-
-![](https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Viewing-Device-in-lab---NUI-Maynooth.jpg)
