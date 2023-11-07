@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "how to write a blog"
+title:  "how to use data from CSV"
 date:   2012-09-12 19:41:59 +0000
 categories: jekyll update
 ---
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+The data below is read directly from [test.csv](_data/test.csv)
+to generate a list of peoplename  with urls:
 
 <ul>
 {% for test in site.data.test %}
