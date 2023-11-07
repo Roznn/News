@@ -2,6 +2,7 @@
 layout: post
 title:  "Improving Segmentation with Graph Matching"
 date:   2023-10-01 19:41:59 +0000
+image: https://roznn.github.io/News/assets/brainsegmentation.png
 categories: 
   - publication
   - journal
