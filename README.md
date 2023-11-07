@@ -1,2 +1,2 @@
 # News
-Blog posts 
+Testing Blog posts with https://jekyllrb.com/
