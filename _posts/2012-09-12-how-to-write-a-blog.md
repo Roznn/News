@@ -10,3 +10,13 @@ categories: jekyll update
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+<ul>
+{% for test in site.data.test %}
+  <li>
+    <a href="{{ test.url }}">
+      {{ test.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
