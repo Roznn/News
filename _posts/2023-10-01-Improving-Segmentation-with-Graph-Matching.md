@@ -5,3 +5,10 @@ date:   2023-10-01 19:41:59 +0000
 categories: publication journal
 ---
 
+Maynooth University researcher Dr. Jeremy Chopin recently published his PhD work within the journal Computer Vision and Image Understanding (CVIU). Titled **Model-based inexact graph matching on top of DNNs for semantic scene understanding** http://doi.org/10.1016/j.cviu.2023.103744 , 
+the work aims to improve 2D and 3D image segmentation performed by deep learning approaches such as CNNs and Transformers by introducting a post-processing step matching a model graph (capturing spatial relationships between regions) with the one found with AI segmentation.  
+
+Co-authors include Rozenn Dahyot (Maynooth University), Harold Mouchère (Nantes Université), Jean-Baptiste Fasquel (Université d’Angers), Isabelle Bloch (Sorbonne Université). 
+
+https://www.adaptcentre.ie/news-and-events/adapt-researcher-publishes-work-aiming-to-improve-2d-and-3d-image-segmentation-in-the-journal-computer-vision-and-image-understanding/
+
