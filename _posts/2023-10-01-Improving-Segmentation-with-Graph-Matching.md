@@ -15,5 +15,6 @@ the work aims to improve 2D and 3D image segmentation performed by deep learning
 
 Co-authors include Rozenn Dahyot (Maynooth University), Harold Mouchère (Nantes Université), Jean-Baptiste Fasquel (Université d’Angers), Isabelle Bloch (Sorbonne Université). 
 
+
 Dr. Jeremy Chopin completed his PhD in Angers University (2022) and then joined Maynooth University as part of the [SFI research centre ADAPT](https://www.adaptcentre.ie/news-and-events/adapt-researcher-publishes-work-aiming-to-improve-2d-and-3d-image-segmentation-in-the-journal-computer-vision-and-image-understanding/).
 
