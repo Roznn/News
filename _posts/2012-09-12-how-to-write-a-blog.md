@@ -8,7 +8,7 @@ author: Rozenn Dahyot
 
 # Welcome
 
-The data below is read directly from [test.csv](_data/test.csv)
+The data below is read directly from a CSV file
 to generate a list of peoplename  with urls:
 
 <ul>
