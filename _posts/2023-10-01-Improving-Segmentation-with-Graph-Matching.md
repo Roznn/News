@@ -6,7 +6,6 @@ categories:
   - publication
   - journal
 description: new CVIU Journal publication 2023 on Image segmentation
-item.image: https://roznn.github.io/News/assets/brainsegmentation.png
 author: Rozenn Dahyot
 ---
 
