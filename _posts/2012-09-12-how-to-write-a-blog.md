@@ -3,6 +3,7 @@ layout: post
 title:  "how to use data from CSV"
 date:   2012-09-12 19:41:59 +0000
 categories: jekyll update
+author: Rozenn Dahyot
 ---
 
 # Welcome
@@ -19,3 +20,5 @@ to generate a list of peoplename  with urls:
   </li>
 {% endfor %}
 </ul>
+
+Help is at [https://jekyllrb.com/docs/datafiles/](https://jekyllrb.com/docs/datafiles/)
