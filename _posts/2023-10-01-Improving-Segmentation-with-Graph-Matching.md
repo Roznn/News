@@ -2,7 +2,11 @@
 layout: post
 title:  "Improving Segmentation with Graph Matching"
 date:   2023-10-01 19:41:59 +0000
-categories: publication journal
+categories: 
+  - publication
+  - journal
+description: new CVIU Journal publication 2023 on Image segmentation
+item_image: https://roznn.github.io/News/assets/brainsegmentation.png
 author: Rozenn Dahyot
 ---
 
