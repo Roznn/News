@@ -26,7 +26,7 @@ Co-authors include Rozenn Dahyot (Maynooth University), Harold Mouchère (Nantes
 
 
 Dr. Jeremy Chopin completed his PhD in Angers University (2022) and then joined Maynooth University as part of the [SFI research centre ADAPT](https://www.adaptcentre.ie/news-and-events/adapt-researcher-publishes-work-aiming-to-improve-2d-and-3d-image-segmentation-in-the-journal-computer-vision-and-image-understanding/).
-
-    </td></tr>
-    </table>
+    </td>
+  </tr>
+</table>
 
