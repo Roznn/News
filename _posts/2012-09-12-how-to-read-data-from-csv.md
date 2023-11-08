@@ -6,8 +6,6 @@ categories: jekyll update
 author: Rozenn Dahyot
 ---
 
-# Welcome
-
 The data below is read directly from a CSV file
 to generate a list of peoplename  with urls:
 
