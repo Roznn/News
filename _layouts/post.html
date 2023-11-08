@@ -12,8 +12,10 @@ layout: base
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a></li>
     <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
     <share-on-mastodon
-        share_title={{ page.title | title_to_string }}
+        share_title="{{ page.title }}"
+        share_description="This is a really descriptive description."
         default_url="https://mastodon.social"
+        hashtags="#gottaHaveThoseHashtags #hashtag #mastodon"
         ></share-on-mastodon>
     <script defer type="module" src="https://cdn.jsdelivr.net/npm/@micahilbery/share-on-mastodon@1.0.5/share-on-mastodon.js"></script>  
     
