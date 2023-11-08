@@ -11,6 +11,13 @@ layout: base
 
 <div class="share-page">
     Share this on &rarr;
+ <share-on-mastodon
+        share_title="{{ page.title }}"
+        share_description="{{ page.description }}"
+        default_url="https://mastodon.social"
+        hashtags="#research #ComputerScience #science #mastodon"
+        ></share-on-mastodon>
+    
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter share-button">Twitter</a>
 
     
@@ -28,12 +35,7 @@ layout: base
             <i class="fa fa-envelope share-button"> email</i>
       </a>
     
-    <share-on-mastodon
-        share_title="{{ page.title }}"
-        share_description="{{ page.description }}"
-        default_url="https://mastodon.social"
-        hashtags="#research #ComputerScience #science #mastodon"
-        ></share-on-mastodon>
+   
     <script defer type="module" src="https://cdn.jsdelivr.net/npm/@micahilbery/share-on-mastodon@1.0.5/share-on-mastodon.js"></script>  
     
 </div>
