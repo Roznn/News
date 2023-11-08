@@ -4,3 +4,18 @@ title: About
 ---
 <h1>About</h1>
 
+
+The data below is read directly from a CSV file
+to generate a list of peoplename  with urls:
+
+<ul>
+{% for test in site.data.test %}
+  <li>
+    <a href="{{ test.url }}">
+      {{ test.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+Help is at [https://jekyllrb.com/docs/datafiles/](https://jekyllrb.com/docs/datafiles/)
