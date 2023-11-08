@@ -9,10 +9,14 @@ layout: base
 <hr/>
 <div class="share-page">
     Share this on &rarr;
-    <ul>
-    <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a></li>
-    <li><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a></li>
-    <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a></li>
-    <li><share-on-mastodon></share-on-mastodon> <script defer type="module" src="https://cdn.jsdelivr.net/npm/@micahilbery/share-on-mastodon@1.0.5/share-on-mastodon.js"></script>  </li>
-    </ul>
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a></li>
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
+    <share-on-mastodon
+        share_title={{ page.title }}
+        share_description={{content}}
+        default_url="https://mastodon.social"
+        ></share-on-mastodon>
+    <script defer type="module" src="https://cdn.jsdelivr.net/npm/@micahilbery/share-on-mastodon@1.0.5/share-on-mastodon.js"></script>  
+    
 </div>
