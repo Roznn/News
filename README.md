@@ -11,5 +11,6 @@ Blog posts with https://jekyllrb.com/
 - adding share for mastodon
   https://share-on-mastodon.social/
 
-- 
+see ```_layouts/post.html``` 
+ 
 
