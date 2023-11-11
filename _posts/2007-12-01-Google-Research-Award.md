@@ -11,4 +11,4 @@ Prof. Dahyot was the recipient Research Google award in 2007 ($50,000) to suppor
 
 This award was acknowledged in this  article  <a href="http://dx.doi.org/10.1109/TPAMI.2008.288">DOI:10.1109/TPAMI.2008.288</a> published in in IEEE Transactions in Pattern Analysis and Machine Intelligence journal in 2009.
 
-<img src="/assets/award.jpg" width="50%">
+<img src="{{ site.baseurl }}/assets/award.jpg" width="50%">
