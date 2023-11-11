@@ -1,6 +1,9 @@
-# News
+# News repo
 
-Testing Blog posts with https://jekyllrb.com/
+This repo is for testing Github as a website suitable for 
+Blog posts with https://jekyllrb.com/
+
+## Social media
 
 - for inserting CSV data in a page
  https://jekyllrb.com/docs/datafiles/
@@ -8,5 +11,5 @@ Testing Blog posts with https://jekyllrb.com/
 - adding share for mastodon
   https://share-on-mastodon.social/
 
-  
+- 
 
