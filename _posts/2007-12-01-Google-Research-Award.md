@@ -2,8 +2,7 @@
 layout: post
 title:  "Research Google award 2007"
 date:   2007-12-01 19:41:59 +0000
-image:  ./assets/award.jpg
-category: award
+image:  ./_posts/award.jpg
 description: Prof. Dahyot was the recipient Research Google award in 2007 ($50,000) to support her research.
 author: Rozenn Dahyot
 ---
