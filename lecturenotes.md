@@ -13,7 +13,7 @@ permalink: /lecturenotes/
        <p>{{ lecturenotes.content | markdownify }}</p>
     </li> -->
 <li>
-      <h2><a href="{{ lecturenotes.url }}">{{ lecturenotes.title }}</a></h2>
+      <h2><a href="{{ lecturenotes.url | relative_url }}">{{ lecturenotes.title }}</a></h2>
          </li>
 
      
