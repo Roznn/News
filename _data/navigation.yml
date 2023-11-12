@@ -4,3 +4,5 @@
   link: /blog.html
 - name: About
   link: /about.html
+- name: Lecture notes
+  link: /lecturenotes.md
