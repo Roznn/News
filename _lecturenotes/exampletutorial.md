@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Tutorial
+author: Rozenn Dahyot
+date: today
 permalink: /lecturenotes/
 ---
 
