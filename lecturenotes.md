@@ -14,8 +14,7 @@ permalink: /lecturenotes/
     </li> -->
 <li>
       <h2><a href="{{ lecturenotes.url }}">{{ lecturenotes.title }}</a></h2>
-      {{ lecturenotes.content }}
-    </li>
+         </li>
 
      
   {% endfor %}
