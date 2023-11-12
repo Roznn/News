@@ -21,7 +21,7 @@ x=[1,2,3];
 plot(x)
 ```
 
-{% highlight matlab %}
+{% highlight Matlab %}
 x=[1,2,3];
 plot(x)
 {% endhighlight %}
