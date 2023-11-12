@@ -20,3 +20,15 @@ $$
 x=[1,2,3];
 plot(x)
 ```
+
+{% highlight matlab %}
+x=[1,2,3];
+plot(x)
+{% endhighlight %}
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
