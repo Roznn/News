@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tutorial 2
-permalink: /lecturenotes/
+author: Rozenn Dahyot
+date:   2007-12-01 19:41:59 +0000
 ---
 
 

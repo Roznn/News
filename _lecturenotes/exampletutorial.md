@@ -3,7 +3,6 @@ layout: page
 title: Tutorial
 author: Rozenn Dahyot
 date:   2007-12-01 19:41:59 +0000
-permalink: /lecturenotes/
 ---
 
 
