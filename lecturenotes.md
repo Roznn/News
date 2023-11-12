@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lecture notes
-permalink: /lecturenotes/
 ---
 
 
