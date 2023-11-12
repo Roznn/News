@@ -1,9 +1,9 @@
 # News repo
 
-This repo is for testing Github as a website suitable for 
+This repo is currently used for testing Github as a website suitable for 
 Blog posts with https://jekyllrb.com/
 
-## Social media
+##  Sharing on Social media in post
 
 - for inserting CSV data in a page
  https://jekyllrb.com/docs/datafiles/
@@ -13,4 +13,19 @@ Blog posts with https://jekyllrb.com/
 
 see ```_layouts/post.html``` 
  
+## Adding favicon
 
+in `base.html` added:
+
+```
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" > 
+```
+
+## Adding Maths/latex  
+
+
+in `base.html` added:
+
+```
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+```
