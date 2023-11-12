@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tutorial 2
+permalink: /lecturenotes/
 ---
 
 
