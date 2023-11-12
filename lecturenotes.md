@@ -8,13 +8,12 @@ permalink: /lecturenotes/
 
 <ul>
   {% for lecturenotes in site.lecturenotes %}
-    <li>
+   <!--  <li>
       <h2>{{ lecturenotes.title }}</h2>
        <p>{{ lecturenotes.content | markdownify }}</p>
-    
-</li>
+    </li> -->
 <li>
-      <h2><a href="{{ lecturenotes.url | relative_url  }}">{{ lecturenotes.title }}</a></h2>
+      <h2><a href="{{ lecturenotes.url   }}">{{ lecturenotes.title }}</a></h2>
       {{ lecturenotes.excerpt }}
     </li>
 
