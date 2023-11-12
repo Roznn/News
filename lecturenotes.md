@@ -10,7 +10,14 @@ permalink: /lecturenotes/
   {% for lecturenotes in site.lecturenotes %}
     <li>
       <h2>{{ lecturenotes.title }}</h2>
-      <p>{{ lecturenotes.content | markdownify }}</p>
+       <p>{{ lecturenotes.content | markdownify }}</p>
+    
+</li>
+<li>
+      <h2><a href="{{ lecturenotes.url | relative_url  }}">{{ lecturenotes.title }}</a></h2>
+      {{ lecturenotes.excerpt }}
     </li>
+
+     
   {% endfor %}
 </ul>
