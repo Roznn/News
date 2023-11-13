@@ -6,7 +6,9 @@ title: Lecture notes
 
 
   {% for lecturenotes in site.lecturenotes %}
-      <h2><a href="{{ lecturenotes.url | relative_url }}">{{ lecturenotes.title }}</a></h2>
-     
+  <ul class="post-list">
+    <li>
+       <h3><a href="{{ lecturenotes.url | relative_url }}">{{ lecturenotes.title }}</a></h3>
+     </li>
   {% endfor %}
 </ul>
