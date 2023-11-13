@@ -34,6 +34,7 @@ plugins:
 
 include: 
   - [_pages]
+  - [_lecturenotes]
   - [_posts]
 
 collections:
