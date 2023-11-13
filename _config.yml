@@ -35,7 +35,7 @@ plugins:
 include: 
   - [_pages]
   - [_posts]
-#  - [_lecturenotes]
+  - [_lecturenotes]
 
 
 collections:
