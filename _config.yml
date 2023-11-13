@@ -37,8 +37,8 @@ include:
   - [_lecturenotes]
   - [_posts]
 
-collections:
-  lecturenotes:
+#collections:
+#  lecturenotes:
   
 # Exclude from processing.
 # The following items will not be processed, by default.
