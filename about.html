@@ -5,17 +5,23 @@ title: About
 <h1>About</h1>
 
 
-The data below is read directly from a CSV file
-to generate a list of peoplename  with urls:
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-<ul>
 {% for test in site.data.test %}
-  <li>
-    <a href="{{ test.url }}">
-      {{ test.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+ 
+<a href="{{ people.web }}"> {{ people.name }} </a> 
+<a href="{{ people.MUurl }}"><i class="fa-regular fa-building-columns"></i></a> 
 
-Help is at [https://jekyllrb.com/docs/datafiles/](https://jekyllrb.com/docs/datafiles/)
+<a href="{{ people.Github }}"><i class="fa-brands fa-github"></i></a>
+<a href="{{ people.orcid }}"><i class="fa-brands fa-orcid"></i></a>
+<a href="{{ people.LinkedINurl }}"><i class="fa-brands fa-linkedin-in"></i></a>
+
+
+<a href="{{people.MastodonURL }}"><i class="fa-brands fa-mastodon"></i></a>
+<a href="{{ people.Xurl }}"><i class="fa fa-twitter fa-2x"></i></a>
+
+
+
+{% endfor %}
+
+

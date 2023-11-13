@@ -29,3 +29,14 @@ in `base.html` added:
 ```
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ```
+
+## lecturenotes as a collection
+
+https://jekyllrb.com/docs/step-by-step/09-collections/
+
+
+## Reading data from CSV
+
+in `about.html` reading from CSV
+
+https://jekyllrb.com/tutorials/csv-to-table/
