@@ -34,11 +34,12 @@ plugins:
 
 include: 
   - [_pages]
-  - [_lecturenotes]
   - [_posts]
+#  - [_lecturenotes]
 
-#collections:
-#  lecturenotes:
+
+collections:
+  lecturenotes:
   
 # Exclude from processing.
 # The following items will not be processed, by default.
