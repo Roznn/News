@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Blog
-  link: /blog.md
+  link: /blog.html
 - name: About
   link: /about.html
 - name: Lecture notes
