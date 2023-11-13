@@ -12,8 +12,8 @@ title: Lecture notes
        <p>{{ lecturenotes.content | markdownify }}</p>
     </li> -->
 <li>
-      <h2><a href="{{ lecturenotes.url | relative_url | markdownify }}">{{ lecturenotes.title }}</a></h2>
-         </li>
+      <h2><a href="{{ lecturenotes.url | relative_url }}">{{ lecturenotes.title }}</a></h2>
+</li>
 
      
   {% endfor %}
