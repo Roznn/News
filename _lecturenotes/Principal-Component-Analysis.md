@@ -28,8 +28,6 @@ date:   2023-11-13 19:41:59 +0000
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PCA equivalently <br>- maximizes the variance of the projected data<br>- minimizes the reconstruction error<br><br>Kick off our <a href="https://twitter.com/Olissipo_eu?ref_src=twsrc%5Etfw">@olissipo_eu</a> minicourse of dimensionality reduction with <a href="https://twitter.com/t_vayer?ref_src=twsrc%5Etfw">@t_vayer</a>! <a href="https://t.co/pkLaGKj40l">pic.twitter.com/pkLaGKj40l</a></p>&mdash; Mathurin Massias (@mathusmassias) <a href="https://twitter.com/mathusmassias/status/1622623539109978119?ref_src=twsrc%5Etfw">February 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 ## Data
