@@ -1,0 +1,14 @@
+---
+layout: projects
+title: I-Form SFI Research centre
+author: 
+startdate: 2022-08-01 
+enddate: 2027-12-31 
+funding: SFI
+---
+
+I-Form brings together a nationwide pool of expertise in materials science, engineering, data analytics and cognitive computing. I-Form is actively engaged across a range of different materials processing technologies, with a particular focus on Additive Manufacturing (3D printing).
+
+ Prof. Dahyot is a <a href="https://www.i-form.ie/about/people/rozenndahyot/" target="_blank">Principal Investigator</a> in the <a href="https://www.i-form.ie/" target="_blank">SFI I-Form Research Centre</a>.
+ 
+ 
