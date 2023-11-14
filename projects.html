@@ -8,7 +8,7 @@ title: Projects
   {% for projects in site.projects %}
   <ul class="post-list">
     <li>
-       <a href="{{ projects.url | relative_url }}">{{ projects.title }}</a> starting from {{ projects.startdate }} to {{ projects.enddate }}
-funded by {{ projects.funding }}     </li>
+       <a href="{{ projects.url | relative_url }}">{{ projects.title }}</a>  
+funded by {{ projects.funding }}  until {{ projects.enddate }}   </li>
   {% endfor %}
 </ul>
