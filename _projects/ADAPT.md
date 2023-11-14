@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: ADAPT SFI Research centre
-author: 
+author: Rozenn Dahyot
 startdate: 2016-09-01 
 enddate: 2025-12-31 
 funding: SFI

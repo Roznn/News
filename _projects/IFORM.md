@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: I-Form SFI Research centre
-author: 
+author: Rozenn Dahyot
 startdate: 2022-08-01 
 enddate: 2027-12-31 
 funding: SFI
