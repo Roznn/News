@@ -1,0 +1,14 @@
+---
+layout: page
+title: Projects
+---
+
+
+
+  {% for projects in site.projects %}
+  <ul class="post-list">
+    <li>
+       <a href="{{ projects.url | relative_url }}">{{ projects.title }}</a>
+     </li>
+  {% endfor %}
+</ul>

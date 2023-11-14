@@ -35,11 +35,11 @@ plugins:
 include: 
   - [_pages]
   - [_posts]
-  - [_lecturenotes]
+  - [_projects]
 
 
 collections:
-  lecturenotes:
+  projects:
         output: true
   
 # Exclude from processing.
