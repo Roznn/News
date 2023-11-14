@@ -2,7 +2,8 @@
 layout: base
 ---
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.startdate | date_to_string }} - {{ page.enddate | date_to_string }} </p>
+<h2>{{ page.title }}</h2>
+<p>funded by {{ page.funding}} till 
+    {{ page.enddate | date_to_string }} </p>
 
 {{ content }}
