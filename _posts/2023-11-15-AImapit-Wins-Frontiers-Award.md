@@ -6,14 +6,14 @@ description: Our start-up AImapIT wins an award at the Irish Times innovation aw
 author: Rozenn Dahyot
 ---
 
-Our start-up <a href="https://www.aimapit.com/news">AImapIT</a> has just won the award in the New Frontiers category at the Irish Times innovation awards 2023!
+Our start-up <a href="https://www.aimapit.com/news">AImapIT</a> has just won the award in the New Frontiers category at the <a href="https://www.irishtimes.com/business/innovation/2023/11/15/sports-data-company-orreco-wins-irish-times-innovation-of-the-year-award/" target="_blank">Irish Times innovation awards 2023</a>!
 
 <a href="https://www.irishtimes.com/business/innovation/2023/11/15/sports-data-company-orreco-wins-irish-times-innovation-of-the-year-award/" target="_blank"><img src="{{ site.baseurl }}/assets/2023AImapITFrontiersAward.png" width="50%" alt="Award"></a>
 
 AImapIT  uses our  statistical and image processing technology to assign a unique GPS coordinate to each asset detected in the imagery facilitating the management of road side infrastructure.
 
 Great to see **research from our lab** getting out as a spin out and winning an award!
-The pic above <a href="https://x.com/IrishTimesBiz/status/1724765213268799798?s=20" target="_blank">tweetted by the Irish Times</a> shows our cofounder-leader Julie Connelly with Dr. Matej Ulicny from  AImapIT team.
+The pic above <a href="https://x.com/IrishTimesBiz/status/1724765213268799798?s=20" target="_blank">tweetted by the Irish Times</a> shows our cofounder-leader Julie Connelly with Dr. Matej Ulicny from  AImapIT team. 
 
 This research was supported by the <a href="https://www.adaptcentre.ie/" target="_blank">SFI ADAPT research centre</a>.
  
